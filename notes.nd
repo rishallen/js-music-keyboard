@@ -1,0 +1,20 @@
+step1: start with html
+set up -
+<script src="http://code.jquery.com/jquery-3.0.0.min.js"></script>
+<script src="index.js"></script>
+
+step2: set up constructor
+set up the callback that will instantiate a new object
+
+step3: build the callback
+
+
+
+=========================================================
+not needed:
+// var noises = new Noises(function(note, frequency) {
+//   // update the display
+//   console.log("note", note, "has been pressed");
+//   console.log("its frequency is", frequency);
+//   note.text(note, frequency);
+// });
